@@ -14,4 +14,10 @@ Here is a quick review of actions to import the dataset using Google Colab.
 
 4. All done :)
 
+
+
+
+
+
+
 NB : an image "imageillustration.png" is provided in this repository and used in the notebook.
